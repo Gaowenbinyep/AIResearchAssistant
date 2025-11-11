@@ -1,0 +1,31 @@
+ 
+检索部分指标：
+
+BGE-M3
+Top-10准确率: 0.3799
+Map: 0.2705
+
+BGE-M3_ft
+Top-10准确率: 0.9701
+Map: 0.8928
+
+Top-3准确率: 0.8618
+Map: 0.7812
+
+BGE-M3_ft+Rerank
+Top-3准确率: 0.9389
+Map: 0.8900
+
+RAG整体指标：
+
+Baseline
+faithfulness        0.6750
+answer_relevancy    0.7954
+nv_accuracy         0.7074
+rejection_accuracy  0.7619
+
+faithfulness        0.7360
+answer_relevancy    0.8740
+nv_accuracy         0.7753
+rejection_accuracy  0.9523
+

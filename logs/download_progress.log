@@ -1,0 +1,20 @@
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Downloading 'pytorch_model.bin' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/Q1p2l2BzM1m6P5jKvr8WTq1TUio=.d83abaa088500f60b311217a283ece7af9e343870723353ddd81d3a2fafa0c0d.incomplete'
+Downloading 'model.safetensors' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/xGOKKLRSlIhH692hSVvI1-gpoa8=.da6d9d5497ffdd9b36598505801ee19de79785e0339fd6a62bf9e777af55ead0.incomplete'
+Downloading 'config.json' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/8_PA_wEVGiVa2goH2H4KQOQpvVY=.24be3ddd1d6e0a0c713bd1177a7107c80b6253d9.incomplete'
+Downloading 'tokenizer_config.json' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/vzaExXFZNBay89bvlQv-ZcI6BTg=.da0cf65a1cea8d659c2dc53ad5222d82cdf897f3.incomplete'
+Downloading 'special_tokens_map.json' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/ahkChHUJFxEmOdq5GDFEmerRzCY=.a8b3208c2884c4efb86e49300fdd3dc877220cdf.incomplete'
+Downloading 'README.md' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/Xn7B-BWUGOee2Y6hCZtEhtFu4BE=.2dd44355ac9c4884569eaee157ec4c4bcdbd1fef.incomplete'
+Downloading '.gitattributes' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/wPaCkH-WbT7GsmxMKKrNZTV4nSM=.c7d9f3332a950355d5a77d85000f05e6f45435ea.incomplete'
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/config.json
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/tokenizer_config.json
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/special_tokens_map.json
+Downloading 'tokenizer.json' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/HgM_lKo9sdSCfRtVg7MMFS7EKqo=.1af3aa3e110038778933628ea69837f83b89240b.incomplete'
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/README.md
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.gitattributes
+Fetching 9 files:  11%|█         | 1/9 [00:01<00:08,  1.08s/it]Downloading 'vocab.txt' to '/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/.cache/huggingface/download/E2zehc7lrIVb8gRdx7qjK54iiZY=.9ae1cf9fb273a7fad905b348a14deb798e60f8ed.incomplete'
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/tokenizer.json
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/vocab.txt
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/pytorch_model.bin
+Download complete. Moving file to /media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic/model.safetensors
+Fetching 9 files:  44%|████▍     | 4/9 [04:51<06:33, 78.63s/it]Fetching 9 files: 100%|██████████| 9/9 [04:51<00:00, 32.36s/it]
+/media/a822/82403B14403B0E83/Gwb/RAG/ner_model/SciNERTopic
